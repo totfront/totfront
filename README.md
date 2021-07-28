@@ -8,8 +8,8 @@
 
 Skills:
 
-<code>HTML <img height="20" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/html.png"></code> / 
-<code>CSS<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+HTML <img height="20" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/html.png"> / 
+CSS <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 <code><img height="20" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"></code>
 <code><img height="20" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/java.png"></code>
 <code><img height="20" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"></code>
