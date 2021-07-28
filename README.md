@@ -2,7 +2,7 @@
 *Type:* **Software engineer** <br/>
 *Class:* **Frontend developer**
 
-⚡ **Skills**<br/>
+## ⚡ **Skills**<br/>
 
 <table>
     <tbody>
@@ -29,17 +29,17 @@
     </tbody>
 </table>
 
-☄ **Additional skills**<br/>
+### ☄ **Additional skills**<br/>
 
 NodeJS (ExpressJs) / Vue / Figma / MongoDb / ThreeJs 
 
-📜 **BIO**<br/>
+## 📜 **BIO**<br/>
 
 Did civil engineering for a bit, but then discovered a passion for frontend development. Got a couple of courses with some guidance from friends and the community. That allowed  to get my first job in Agile team doing EduTech products.
 Strong points are JavaScript and Javascript frameworks. Prefered is React.js but also used Vue. His usual day is full of writing complex UI logic, finding some exciting bugs, reviewing merge requests from other developers and writing prototypes with UX designers.
 As a final bit, there are some of my hobbies: long-distance running, weekend pet projects (for learning or testing new features), snowboarding, gaming, camping
 
-👨‍🎓 Education 
+## 👨‍🎓 Education 
 1. (2010-2015) **Master** of Information systems and construction automation
 *Technical University of Construction and Automation Engineers - Moscow, Russia*
 
@@ -47,7 +47,7 @@ As a final bit, there are some of my hobbies: long-distance running, weekend pet
 3. (2021) **Course** Yandex.Practicum: Web-developer plus
   
 
-🧙 **Summon him**:<br/>
+## 🧙 **Summon him**:<br/>
 
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/xelarim/)
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=totfront@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:totfront@gmail.com)
