@@ -2,12 +2,6 @@
 *Type:* **Software engineer** <br/>
 *Class:* **Frontend developer**
 
-🧙 **Summon him**:<br/>
-
-[![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/xelarim/)
-[![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=totfront@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:totfront@gmail.com)
-[![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=0E7FBF&&&style=flat&logo=telegram&logoColor=white)](https://t.me/xelarim)
-
 ⚡ **Skills**<br/>
 
 <table>
@@ -52,4 +46,9 @@ As a final bit, there are some of my hobbies: long-distance running, weekend pet
 2. (2019) **Courses** HTML-academy: HTLM&CSS (1 lvl), HTML&CSS (2 lvl), JavaScript (1 lvl)
 3. (2021) **Course** Yandex.Practicum: Web-developer plus
   
-#### To summon the developer: just send an email, a message or telegram. All links are above 🔼
+
+🧙 **Summon him**:<br/>
+
+[![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/xelarim/)
+[![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=totfront@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:totfront@gmail.com)
+[![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=0E7FBF&&&style=flat&logo=telegram&logoColor=white)](https://t.me/xelarim)
