@@ -1,21 +1,16 @@
 # Hello there, I'm Alexandr <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### You can contact with me:
+### Feel free to contact me:
 
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/xelarim/)
-[![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=josephthoma948@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:totfront@gmail.com)
+[![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=totfront@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:totfront@gmail.com)
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=0E7FBF&&&style=flat&logo=telegram&logoColor=white)](https://t.me/xelarim)
-
-<a href="https://www.linkedin.com/in/shibin-thomas-343615206">
-  <img align="left" alt="Shibin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 <br />
 </h1>
 
-<p align='center'><em><b>Coming together is a beginning; keeping together is progress; working together is success.</b></em>
+<p align='center'><em><b>If (!something) {cry().then(()=>{tryHarder()})}</b></em>
 <br/>
- <em><b>- Henry Ford</b></em>
 <br><br/>
  
 hi, i'm [Shibin Thomas](https://github.com/itsmeshibintmz), a passionate self-taught web developer and a tech enthusiastic from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
