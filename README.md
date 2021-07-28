@@ -13,22 +13,22 @@
 <table>
     <tbody>
         <tr>
-            <td>JavaScript<a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
+            <td>JavaScript <a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
             </td>
-            <td>HTML<a href="#"><img alt="HTML5" title="HTML5" height="28px"
+            <td>HTML <a href="#"><img alt="HTML5" title="HTML5" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
             </td>
-            <td>CSS<a href="#"><img alt="CSS3" title="CSS3" height="28px"
+            <td>CSS <a href="#"><img alt="CSS3" title="CSS3" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
             </td>
-            <td>ReactJS<a href="#"><img alt="React" title="React" height="28px"
+            <td>ReactJS <a href="#"><img alt="React" title="React" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
             </td>
-             <td>NodeJS<a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
+             <td>NodeJS <a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
             </td>
-            <td>GitHub<a href="#"><img alt="GitHub" title="GitHub" height="28px"
+            <td>GitHub <a href="#"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://i.imgur.com/DZgetVv.png" /></a>
             </td>
         </tr>
