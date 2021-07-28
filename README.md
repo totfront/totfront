@@ -1,8 +1,8 @@
 # Name: Alexandr Mir 
-## Type: Software engineer
-## Class: Frontend developer
+Type: Software engineer
+Class: Frontend developer
 
-### Summon him:
+Summon him:
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/xelarim/)
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=totfront@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:totfront@gmail.com)
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=0E7FBF&&&style=flat&logo=telegram&logoColor=white)](https://t.me/xelarim)
