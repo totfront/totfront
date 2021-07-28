@@ -1,4 +1,4 @@
-# Alexandr Mir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Alexandr Mir 🧙
 ## Frontend developer
 
 ### Summon him:
