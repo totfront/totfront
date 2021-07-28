@@ -49,7 +49,7 @@ As a final bit, there are some of my hobbies: long-distance running, weekend pet
 1. (2010-2015) **Master** of Information systems and construction automation
 *Technical University of Construction and Automation Engineers - Moscow, Russia*
 
-2. (2019) *Courses* HTML-academy: HTLM&CSS (1 lvl), HTML&CSS (2 lvl), JavaScript (1 lvl)
-3. (2021) *Course* Yandex.Practicum: Web-developer plus
+2. (2019) **Courses** HTML-academy: HTLM&CSS (1 lvl), HTML&CSS (2 lvl), JavaScript (1 lvl)
+3. (2021) **Course** Yandex.Practicum: Web-developer plus
   
 #### To summon the developer: just send an email, a message or telegram. All links are above 🔼
