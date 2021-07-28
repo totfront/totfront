@@ -1,5 +1,6 @@
 # Name: Alexandr Mir 
-Type: Software engineer
+🧙
+Type: Software engineer <br/>
 Class: Frontend developer
 
 Summon him:
