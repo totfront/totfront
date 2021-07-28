@@ -1,23 +1,30 @@
-# Hello there, I'm Alexandr <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Alexandr Mir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Frontend developer
 
-### Feel free to contact me:
-
+### Summon him:
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/xelarim/)
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=totfront@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:totfront@gmail.com)
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=0E7FBF&&&style=flat&logo=telegram&logoColor=white)](https://t.me/xelarim)
 
-<br />
-</h1>
+Skills:
 
-<p align='center'><em><b>If (!something) {cry().then(()=>{tryHarder()})}</b></em>
-<br/>
-<br><br/>
- 
-hi, i'm [Shibin Thomas](https://github.com/itsmeshibintmz), a passionate self-taught web developer and a tech enthusiastic from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+<code>HTML <img height="20" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/html.png"></code> / 
+<code>CSS<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"></code>
+<code><img height="20" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/java.png"></code>
+<code><img height="20" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"></code>
+<code><img height="20" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-i'm 22 years old, graduating in Bachelor of Computer Application at [St.George's College](https://www.sgcaruvithura.ac.in/public/course-details.html?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09").
+📜 BIO:
+Did civil engineering for a bit, but then discovered a passion for frontend development. Got a couple of courses with some guidance from friends and the community. That allowed  to get my first job in Agile team doing EduTech products.
+My strong points are JavaScript and Javascript frameworks. My prefered is React.js but also used Vue and Angular. My usual day is full of writing complex UI logic, finding some exciting bugs, reviewing merge requests from other developers and writing prototypes with UX designers.
+As a final bit, there are some of my hobbies: long-distance running, weekend pet projects (for learning something new), snowboarding, gaming, camping
 
-i'm also an open-source enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
   <img align="right" alt="GIF" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/code.gif" width="500" height="320" />
 
