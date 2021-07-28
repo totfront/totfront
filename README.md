@@ -3,11 +3,13 @@
 *Class:* **Frontend developer**
 
 🧙 **Summon him**:<br/>
+
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/xelarim/)
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=totfront@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:totfront@gmail.com)
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=0E7FBF&&&style=flat&logo=telegram&logoColor=white)](https://t.me/xelarim)
 
 ⚡ **Skills**<br/>
+
 <table>
     <tbody>
         <tr>
@@ -30,8 +32,6 @@
             </td>
             <td><a href="#"><img alt="Sheets" title="Sheets" height="28px"
                         src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a></td>
-            <td><a href="#"><img alt="Markdown" title="Markdown" height="28px"
-                        src="https://i.imgur.com/eO5z1xV.png" /></a></td>
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://i.imgur.com/DZgetVv.png" /></a>
             </td>
@@ -42,8 +42,6 @@
             </td>
             <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
                         src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
-            <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
-                        src="https://i.imgur.com/6nJGNMN.png" /></a></td>
             <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
                         src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
         </tr>
@@ -51,14 +49,17 @@
 </table>
 
 ☄ **Additional skills**<br/>
+
 NodeJS (ExpressJs) / Vue / Figma / MongoDb / ThreeJs 
 
 📜 **BIO**<br/>
+
 Did civil engineering for a bit, but then discovered a passion for frontend development. Got a couple of courses with some guidance from friends and the community. That allowed  to get my first job in Agile team doing EduTech products.
 Strong points are JavaScript and Javascript frameworks. Prefered is React.js but also used Vue. His usual day is full of writing complex UI logic, finding some exciting bugs, reviewing merge requests from other developers and writing prototypes with UX designers.
 As a final bit, there are some of my hobbies: long-distance running, weekend pet projects (for learning something new), snowboarding, gaming, camping
 
 👨‍🎓 Education 
+
 1. **Master's Degree**\
 (2010-2015) Information systems and construction automation
 *Technical University of Construction and Automation Engineers - Moscow, Russia*
