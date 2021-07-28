@@ -1,6 +1,6 @@
 # Name: Alexandr Mir 
 ## Type: Software engineer
-## Class: Frontend developer 🧙
+## Class: Frontend developer
 
 ### Summon him:
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/xelarim/)
