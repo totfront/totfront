@@ -2,21 +2,21 @@
 *Type:* **Software engineer** <br/>
 *Class:* **Frontend developer**
 
-🧙 **Summon him**:
+🧙 **Summon him**:<br/>
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/xelarim/)
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=totfront@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:totfront@gmail.com)
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=0E7FBF&&&style=flat&logo=telegram&logoColor=white)](https://t.me/xelarim)
 
-⚡ **Skills**
+⚡ **Skills**<br/>
 HTML <img height="20" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/html.png"> / 
 CSS <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> / 
 React <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> / 
 Git <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 
-☄ **Additional skills**
+☄ **Additional skills**<br/>
 NodeJS (ExpressJs) / Vue / Figma / MongoDb / ThreeJs 
 
-📜 **BIO**:
+📜 **BIO**<br/>
 Did civil engineering for a bit, but then discovered a passion for frontend development. Got a couple of courses with some guidance from friends and the community. That allowed  to get my first job in Agile team doing EduTech products.
 Strong points are JavaScript and Javascript frameworks. Prefered is React.js but also used Vue. His usual day is full of writing complex UI logic, finding some exciting bugs, reviewing merge requests from other developers and writing prototypes with UX designers.
 As a final bit, there are some of my hobbies: long-distance running, weekend pet projects (for learning something new), snowboarding, gaming, camping
