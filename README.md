@@ -1,5 +1,5 @@
 # Name: Alexandr Mir 
-🧙
+🧙<br/>
 Type: Software engineer <br/>
 Class: Frontend developer
 
