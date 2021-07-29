@@ -2,7 +2,7 @@
 *Type:* **Software engineer** <br/>
 *Class:* **Frontend developer**
 
-## ⚡ **Skills**<br/>
+## ☄ **Skills**<br/>
 
 <table>
     <tbody>
@@ -29,7 +29,7 @@
     </tbody>
 </table>
 
-### ☄ **Additional skills**<br/>
+### 🌠 **Additional skills**<br/>
 
 NodeJS (ExpressJs) / Vue / Figma / MongoDb / ThreeJs 
 
