@@ -35,9 +35,8 @@ NodeJS (ExpressJs) / Vue / Figma / MongoDb / ThreeJs
 
 ## 📜 **BIO**<br/>
 
-Did civil engineering for a bit, but then discovered a passion for frontend development. Got a couple of courses with some guidance from friends and the community. That allowed  to get my first job in Agile team doing EduTech products.
-Strong points are JavaScript and Javascript frameworks. Prefered is React.js but also used Vue. His usual day is full of writing complex UI logic, finding some exciting bugs, reviewing merge requests from other developers and writing prototypes with UX designers.
-As a final bit, there are some of my hobbies: long-distance running, weekend pet projects (for learning or testing new features), snowboarding, gaming, camping
+Frontend developer with 2+ years of relevant experience in developing user interfaces. Worked in an agile environment with the backend developers and other team members to develop innovative frontend solutions.
+Long-distance runner, snowboarder, camper.
 
 ## 👨‍🎓 Education 
 1. (2010-2015) **Master** of Information systems and construction automation
