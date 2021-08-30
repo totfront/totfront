@@ -31,19 +31,19 @@
 
 ### 🌠 **Additional skills**<br/>
 
-NodeJS (ExpressJs) / Vue / Figma / MongoDb / ThreeJs 
+NodeJS (ExpressJs) / Vue / Figma / MongoDb / ThreeJs / Jest
 
 ## 📜 **BIO**<br/>
 
-Frontend developer with 2+ years of relevant experience in developing user interfaces. Worked in an agile environment with the backend developers and other team members to develop innovative frontend solutions.
+Frontend developer with 2+ years of relevant experience in developing user interfaces. Work in an agile environment with the developers and other team members to develop innovative frontend solutions.
 Long-distance runner, snowboarder, camper.
 
 ## 👨‍🎓 Education 
 1. (2010-2015) **Specialist** of Information systems and construction automation
 *Technical University of Construction and Automation Engineers - Moscow, Russia*
 
-2. (2019) **Courses** HTML-academy: HTLM&CSS (1 lvl), HTML&CSS (2 lvl), JavaScript (1 lvl)
-3. (2021) **Course** Yandex.Practicum: Web-developer plus
+2. (2018-2019) **Course** HTML-academy: Frontend developer course (275 hours) with HTML, CSS, JS basics, introduction to git-systems and task-managers
+3. (2020-2021) **Course** Yandex.Practicum: Web developer course (570 hours) included deep learning HTML, CSS, JS concepts, ReactJS and couple sprints for backend developing (NodeJs)
   
 
 ## 🧙 **Summon him**:<br/>
