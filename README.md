@@ -39,7 +39,7 @@ Frontend developer with 2+ years of relevant experience in developing user inter
 Long-distance runner, snowboarder, camper.
 
 ## 👨‍🎓 Education 
-1. (2010-2015) **Master** of Information systems and construction automation
+1. (2010-2015) **Specialist** of Information systems and construction automation
 *Technical University of Construction and Automation Engineers - Moscow, Russia*
 
 2. (2019) **Courses** HTML-academy: HTLM&CSS (1 lvl), HTML&CSS (2 lvl), JavaScript (1 lvl)
