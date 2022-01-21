@@ -35,8 +35,8 @@ NodeJS (ExpressJs) / Vue / Figma / MongoDb / ThreeJs / Jest
 
 ## 📜 **BIO**<br/>
 
-Frontend developer with 2+ years of relevant experience in developing user interfaces. Work in an agile environment with the developers and other team members to develop innovative frontend solutions.
-Long-distance runner, snowboarder, camper.
+Frontend developer with 2+ years of experience. Work in an agile environment with the developers and other team members to develop innovative frontend solutions.
+Hobbyies: Long-distance runner, snowboarder, camper.
 
 ## 👨‍🎓 Education 
 1. (2010-2015) **Specialist** of Information systems and construction automation
