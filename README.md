@@ -2,6 +2,8 @@
 *Type:* **Software engineer** <br/>
 *Class:* **Frontend developer**
 
+<hr></hr>
+
 ## ☄ **Skills**<br/>
 
 <table>
