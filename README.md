@@ -1,6 +1,7 @@
 # Alex Mir 
 *Type:* **Software engineer** <br/>
-*Class:* **Frontend developer**
+*Class:* **Frontend developer** <br/>
+*Career starts in:* 2019 
 
 ## ☄ **Skills**<br/>
 
