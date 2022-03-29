@@ -2,8 +2,6 @@
 *Type:* **Software engineer** <br/>
 *Class:* **Frontend developer**
 
-<hr></hr>
-
 ## ☄ **Skills**<br/>
 
 <table>
@@ -31,20 +29,14 @@
     </tbody>
 </table>
 
-<hr></hr>
-
 ### 🌠 **Additional skills**<br/>
 
 NodeJS (ExpressJs) / Vue / Figma / MongoDb / ThreeJs / Jest
-
-<hr></hr>
 
 ## 📜 **BIO**<br/>
 
 Frontend developer with 2+ years of experience. Work in an agile environment with the developers and other team members to develop innovative frontend solutions.
 Hobbyies: Long-distance runner, snowboarder, camper.
-
-<hr></hr>
 
 ## 👨‍🎓 Education 
 1. (2010-2015) **Specialist** of Information systems and construction automation
@@ -52,8 +44,6 @@ Hobbyies: Long-distance runner, snowboarder, camper.
 
 2. (2018-2019) **Course** HTML-academy: Frontend developer course (275 hours) with HTML, CSS, JS basics, introduction to git-systems and task-managers
 3. (2020-2021) **Course** Yandex.Practicum: Web developer course (570 hours) included deep learning HTML, CSS, JS concepts, ReactJS and couple sprints for backend developing (NodeJs)
-
-<hr></hr>
 
 ## 🧙 **Summon him**:<br/>
 
