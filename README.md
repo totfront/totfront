@@ -1,4 +1,4 @@
-# Alexandr Mir 
+# Alex Mir 
 *Type:* **Software engineer** <br/>
 *Class:* **Frontend developer**
 
