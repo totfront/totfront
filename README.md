@@ -36,7 +36,7 @@ Hobbies: Marathon runner, gamer.
 3. **Course:** Yandex.Practicum: Web developer course [advanced HTML, CSS and JS concepts + ReactJS and a project for backend with ExpressJS] (2020-2021)
 4. **Course:** Yandex.Practicum: Advanced React course [React, Redux, Websockets, Redux:Saga, Redux:Toolkit, React D&D] (2023-2023)
 
-## 🧙 **Summon him**:<br/>
+## 🧙 **Summon him**<br/>
 
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/xelarim/)
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=totfront@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:totfront@gmail.com)
