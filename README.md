@@ -21,16 +21,16 @@
     </tbody>
 </table>
 
-### 🌠 **Additional skills**<br/>
+### ✨ **Additional skills**<br/>
 
 ExpressJs / Websockets / Figma / MongoDb / Jest / Cypress.io
 
-## 📜 **BIO**<br/>
+## **BIO**<br/>
 
 Software Engineer focusing on Web from Berlin with 4 years of relevant experience in UI development. I work in an Agile environment with diverse engineers, managers and designers to create cutting-edge software solutions.
 Hobbies: Marathon runner, gamer.
 
-## 👨‍🎓 Education 
+## Education 
 1. **Hight education:** Moscow State University of Civil Engineering - engineer of Information systems and construction automation (2010-2015)
 2. **Course:** HTML-academy - Frontend developer course [HTML, CSS, JS basics, introduction to git-systems and task-managers] (2018-2019)
 3. **Course:** Yandex.Practicum: Web developer course [advanced HTML, CSS and JS concepts + ReactJS and a project for backend with ExpressJS] (2020-2021)
