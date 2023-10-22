@@ -1,6 +1,6 @@
 # Alex Mir 
-*Type:* **Software engineer** <br/>
-*Class:* **Web developer** <br/>
+*Type:* **Software Engineer** <br/>
+*Class:* **Web Developer** <br/>
 
 ## ☄ **Skills**<br/>
 
