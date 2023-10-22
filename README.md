@@ -4,22 +4,7 @@
 
 ## ☄ **Skills**
 
-<table>
-    <tbody>
-        <tr>
-            <td>React
-            </td>
-            <td>TypeScript
-            </td>
-            <td>NodeJS
-            </td>
-            <td>CSS
-            </td>
-            <td>JavaScript
-            </td>
-        </tr>
-    </tbody>
-</table>
+React / Typescript / Nodejs / CSS / Javascript
 
 ### ✨ **Additional skills**
 
