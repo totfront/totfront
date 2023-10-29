@@ -13,7 +13,9 @@ ExpressJs / Websockets / Figma / MongoDb / Jest / Cypress.io
 ## **BIO**
 
 Software Engineer with 4 years of relevant experience with a focus on the Frontend, but with a Backend experience. I work in an Agile environment with diverse engineers, managers and designers to create cutting-edge end-to-end software solutions.
-Hobbies: Marathon running, gaming, travelling.
+
+### **Hobbies**
+Marathon running, gaming, travelling.
 
 ## **Education**
 1. **Higher education:** Moscow State University of Civil Engineering - engineer of Information systems and construction automation (2010-2015)
