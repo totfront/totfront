@@ -4,7 +4,7 @@
 
 ## ☄ **Skills**
 
-React / Typescript / Nodejs / CSS / Javascript
+Typescript / Javascript / ReactJS / NextJS / NodeJS / CSS
 
 ### ✨ **Additional skills**
 
