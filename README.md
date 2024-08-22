@@ -10,7 +10,7 @@ Typescript / Javascript / ReactJS / NextJS / NodeJS / CSS
 
 ExpressJs / Websockets / Figma / MongoDb / Jest / Cypress
 
-## **BIO**
+## 📜 **BIO**
 
 Software Engineer with 5 years of relevant experience with a focus on the Frontend, but with a Backend experience. I work in an Agile environment with diverse engineers, managers and designers to create cutting-edge end-to-end software solutions.
 
