@@ -1,6 +1,6 @@
 # Alex Mir 
 *Type:* **Software Engineer** <br/>
-*Class:* **Web Developer** <br/>
+*Class:* **Web orientated Fullstack** <br/>
 
 ## ☄ **Skills**
 
