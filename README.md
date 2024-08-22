@@ -1,5 +1,3 @@
-🚨 This is a private repo and contributions to the commercial products have never been done from here 🚨
-
 # Alex Mir 
 *Type:* **Software Engineer** <br/>
 *Class:* **Web Developer** <br/>
