@@ -12,10 +12,10 @@ ExpressJs / Websockets / Figma / MongoDb / Jest / Cypress
 
 ## 📜 **BIO**
 
-Software Engineer with 5 years of relevant experience with a focus on the Frontend, but with a Backend experience. I work in an Agile environment with diverse engineers, managers and designers to create cutting-edge end-to-end software solutions.
+Software Engineer with a focus on the Frontend and Backend experience. I work in an Agile environment with diverse engineers, managers and designers to create cutting-edge end-to-end software solutions.
 
 ### **Hobbies**
-Marathon running, gaming, travelling.
+Marathon running, gaming, and travelling.
 
 ## 🧙 **How to summon**
 
